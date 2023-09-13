@@ -19,8 +19,8 @@ import androidx.compose.foundation.selection.selectableGroup
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.AddCircle
-import androidx.compose.material.icons.filled.CheckCircle
+import androidx.compose.material.icons.filled.Done
+import androidx.compose.material.icons.outlined.KeyboardArrowRight
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -133,11 +133,11 @@ fun LoginScreen() {
                     Icon(
                         modifier = Modifier.padding(end = 16.dp),
                         imageVector = if (selectedItem == label)
-                            Icons.Filled.CheckCircle else
-                            Icons.Filled.AddCircle,
+                            Icons.Filled.Done else
+                            Icons.Outlined.KeyboardArrowRight,
 
                         contentDescription = null,
-                        tint = Color.White
+                        tint = if (selectedItem == label) Color.White else Color.Transparent
                     )
                     Text(text = label)
                 }
