@@ -14,4 +14,7 @@
 ### 3. Assignment 3
    ![image](https://github.com/smartinternz02/SI-GuidedProject-580058-1694096370/assets/67387311/80253e49-9d95-43cd-a909-e895d54a0cb4)
 
+### 4. Assignment 4
+   ![2023-09-22_11-35](https://github.com/smartinternz02/SI-GuidedProject-580058-1694096370/assets/67387311/6742cba4-c173-463e-843c-f221c9d4e9dd)
+
 
