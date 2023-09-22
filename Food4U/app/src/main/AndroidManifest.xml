@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Food4U"
+        tools:targetApi="31">
+        <activity
+            android:name=".H3Menu3"
+            android:exported="false"
+            android:label="@string/title_activity_h3_menu3"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".H3Menu2"
+            android:exported="false"
+            android:label="@string/title_activity_h3_menu2"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".H3Menu1"
+            android:exported="false"
+            android:label="@string/title_activity_h3_menu1"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".h3Menu1"
+            android:exported="false"
+            android:label="@string/title_activity_h3_menu1"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".H2Menu3"
+            android:exported="false"
+            android:label="@string/title_activity_h2_menu3"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".H2Menu2"
+            android:exported="false"
+            android:label="@string/title_activity_h2_menu2"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".H2Menu1"
+            android:exported="false"
+            android:label="@string/title_activity_h2_menu1"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".Food3Menu1"
+            android:exported="false"
+            android:label="@string/title_activity_food3_menu1"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".Food2Menu1"
+            android:exported="false"
+            android:label="@string/title_activity_food2_menu1"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".Food1Menu1"
+            android:exported="false"
+            android:label="@string/title_activity_food1_menu1"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".Hotel3"
+            android:exported="false"
+            android:label="@string/title_activity_hotel3"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".Hotel2"
+            android:exported="false"
+            android:label="@string/title_activity_hotel2"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".Hotel1"
+            android:exported="false"
+            android:label="@string/title_activity_hotel1"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".Hotels"
+            android:exported="false"
+            android:label="@string/title_activity_hotels"
+            android:theme="@style/Theme.Food4U" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Food4U">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

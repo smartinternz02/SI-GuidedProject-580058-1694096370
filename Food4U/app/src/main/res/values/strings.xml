@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Food4U</string>
+    <string name="hotel1">Indian</string>
+    <string name="hotel2">Chinese</string>
+    <string name="hotel3">Continental</string>
+
+    <string name="hotel1_cat1">Main Course</string>
+    <string name="hotel1_cat2">Biryani</string>
+    <string name="hotel1_cat3">Starter</string>
+
+    <string name="hotel2_cat1">Noodles</string>
+    <string name="hotel2_cat2">Fried Rice</string>
+    <string name="hotel2_cat3">Manchurian</string>
+
+    <string name="hotel3_cat1">Asian</string>
+    <string name="hotel3_cat2">Western</string>
+    <string name="hotel3_cat3">Sandwich</string>
+
+    <string name="title_activity_hotels">Hotels</string>
+    <string name="title_activity_hotel1">Hotel1</string>
+    <string name="title_activity_hotel2">Hotel2</string>
+    <string name="title_activity_hotel3">Hotel3</string>
+    <string name="title_activity_food1_menu1">Food1Menu1</string>
+    <string name="title_activity_food2_menu1">Food2Menu1</string>
+    <string name="title_activity_food3_menu1">Food3Menu1</string>
+    <string name="title_activity_h2_menu1">H2Menu1</string>
+    <string name="title_activity_h2_menu2">H2Menu2</string>
+    <string name="title_activity_h2_menu3">H2Menu3</string>
+    <string name="title_activity_h3_menu1">h3Menu1</string>
+    <string name="title_activity_h3_menu2">H3Menu2</string>
+    <string name="title_activity_h3_menu3">H3Menu3</string>
+    <string name="h1m1f1">Veg Handi</string>
+    <string name="h1m1f2">Veg Kadai</string>
+    <string name="h1m1f3">Paneer Tikka Masala</string>
+    <string name="h1m1f4">Paneer Kadai</string>
+    <string name="h1m2f1">Veg Biryani</string>
+    <string name="h1m2f2">Aloo Dum Biryani</string>
+    <string name="h1m2f3">Egg Biryani</string>
+    <string name="h1m2f4">Chicken Biryani</string>
+    <string name="h1m3f1">Hara Bara Kabab</string>
+    <string name="h1m3f2">Veg Crispy</string>
+    <string name="h1m3f3">Paneer Tikka</string>
+    <string name="h1m3f4">Chicken Lolipop</string>
+    <string name="h2m1f1">Veg Noodles</string>
+    <string name="h2m1f2">Hakka Noodles</string>
+    <string name="h2m1f3">Schezwan Noodles</string>
+    <string name="h2m1f4">Chicken Noodles</string>
+    <string name="h2m2f1">Veg Fried Rice</string>
+    <string name="h2m2f2">Schezwan Fried Rice</string>
+    <string name="h2m2f3">Egg Fried Rice</string>
+    <string name="h2m2f4">Chicken Fried Rice</string>
+    <string name="h2m3f1">Veg Manchurian</string>
+    <string name="h2m3f2">Gobi Manchurian</string>
+    <string name="h2m3f3">Paneer Manchurian</string>
+    <string name="h2m3f4">Chicken Manchurian</string>
+    <string name="h3m1f1">Kung Pao Chicken</string>
+    <string name="h3m1f2">Korean Bibimbab</string>
+    <string name="h3m1f3">Miso Butter Roast Chicken</string>
+    <string name="h3m1f4">Laksa Shirataki</string>
+    <string name="h3m2f1">Double Cheese HamBurger</string>
+    <string name="h3m2f2">Buffalo Wings</string>
+    <string name="h3m2f3">Barbecue Ribs</string>
+    <string name="h3m2f4">Roasted Chicken</string>
+    <string name="h3m3f1">Cheese Sandwich</string>
+    <string name="h3m3f2">Paneer Sandwich</string>
+    <string name="h3m3f3">Chicken Grilled Sandwich</string>
+    <string name="h3m3f4">Paneer Barbecue Sandiwch</string>
+</resources>
